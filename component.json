@@ -1,0 +1,8 @@
+{
+    "name": "jo-do-list",
+    "version": "0.0.1",
+    "dependencies": {
+      "jquery": "latest",
+      "jasmine-jquery": "latest"
+    }
+}
